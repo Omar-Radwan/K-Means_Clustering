@@ -1,5 +1,5 @@
 # K-Means Clustering
-Implementation of K-Means Clustering using python
+Implementation of K-Means Clustering algorithm using python
 
 
 ## Dataset
