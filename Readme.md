@@ -16,10 +16,10 @@ Directory of data-set
 
 
 ## How To Run The Progam
-1. run main.py
-2. enter the value of k
-3. enter the number of iterations
-4. wait for the program to complete
+1. Run main.py
+2. Enter the value of k
+3. Enter the number of iterations
+4. Wait for the program to complete
 
 
 ## Output
