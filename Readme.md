@@ -1,6 +1,8 @@
-#K-Means Clustering
+# K-Means Clustering
 Implementation of K-Means Clustering using python
-##Dataset
+
+
+## Dataset
 CIFAR-10, contains 60000 32x32 images, where 50000 are used for training 
 
 
@@ -11,12 +13,16 @@ Directory of data-set
 ```
 /cifar-10-batches-py
 ```
-##How To Run The Progam
+
+
+## How To Run The Progam
 1. run main.py
 2. enter the value of k
 3. enter the number of iterations
 4. wait for the program to complete
-##Output
+
+
+## Output
 Ouptut of the run is generated in 
 ```
 /output/iterations= xx, k= xx/run_id=x
