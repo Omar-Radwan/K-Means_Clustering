@@ -1,8 +1,8 @@
-from information_helper import InformationHelper
-from constants import *
-from input_parser import InputParser
-from k_means_clustering import KMeans
-from output_writer import OutputWriter
+from classes.information_helper import InformationHelper
+from classes.constants import *
+from classes.input_parser import InputParser
+from classes.k_means_clustering import KMeans
+from classes.output_writer import OutputWriter
 
 matrix, data = [], []
 

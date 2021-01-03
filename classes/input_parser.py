@@ -1,4 +1,4 @@
-from constants import *
+from classes.constants import *
 import pickle
 
 

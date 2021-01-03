@@ -1,11 +1,6 @@
-import math
 import random
 
-from information_helper import InformationHelper
-from constants import *
-from output_writer import OutputWriter
-
-from information_helper import *
+from classes.information_helper import *
 
 
 class KMeans:

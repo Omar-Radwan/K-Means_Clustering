@@ -1,7 +1,7 @@
 import math
 
 import matplotlib.pyplot as plt
-from constants import *
+from classes.constants import *
 
 
 def calculate_distance(x: [int], y: [int]) -> int:
